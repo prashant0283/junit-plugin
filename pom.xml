@@ -14,7 +14,7 @@
     <url>http://wiki.jenkins-ci.org/display/JENKINS/JUnit+Plugin</url>
     <properties>
         <jenkins.version>1.580.1</jenkins.version>
-        <java.level>9</java.level>
+        <java.version>9</java.version>
     </properties>
     <licenses>
         <license>
